@@ -6,7 +6,6 @@ Target Device: TI-MSP4302355
 
 ## Memory and regisers
 
-``` markdown
 ![Memory and Registers](doc/images/memory_map.png)
 
 
